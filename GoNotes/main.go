@@ -21,4 +21,8 @@ func main () {
 	ages := []int{20,35,40,22,43,50,69,31}
 	sort.Ints(ages)
 	fmt.Println(ages)
+	
+	// /n new line
+	// /t tab
+	// /b backspace
 }
